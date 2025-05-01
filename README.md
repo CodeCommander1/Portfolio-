@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Personal portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 
-<a href="https://portfolioharshpandey.vercel.app/" target="_blank">**Visit Now** 🚀</a>
+<a href="http://127.0.0.1:5503/nishant-portfolio.html" target="_blank">**Visit Now** 🚀</a>
 
 ---
 
@@ -19,7 +19,7 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome, JSON
 ---
 
 ## 📸 Sneak Peek
-![Portfolio Preview](assets/images/projects/SS.png)
+![Portfolio Preview](Screenshot 2025-05-01 152421.png)
 
 ---
 
